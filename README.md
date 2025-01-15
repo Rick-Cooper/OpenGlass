@@ -1,7 +1,7 @@
 ![header](banner.png)
 # OpenGlass
 A replica of the dead software glass8, also known as the upstream project of [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass).  
-
+# Frutiger Aero
 > [!NOTE]
 > This project currently maintains two branches
 > - [master](https://github.com/ALTaleX531/OpenGlass/tree/master) It has many features and relatively fewer bugs. It depends on `dcomp` and `Windows.UI.Composition`. It is recommended for those who want to experience more features or are using Windows 11. 
